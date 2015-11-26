@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Lists</string>
+    <string name="title">TO-DO LIST</string>
 </resources>
